@@ -1,4 +1,4 @@
-# SteamOldLibraryBatch
+# Steam Old Library Batch
 I made this Batch file to automate the process of copying everything from the old Steam Package folder to the one used by the application. The files you need are available in the description of this video: https://www.youtube.com/watch?v=bjN6-e3nlPE
 
 Before you run it, you have to put all 30 files from the video's description into a single folder titled "oldpackage" in your Steam Root Folder. The folder hierarchy should be "C:\Program Files (x86)\Steam\oldpackage"
@@ -9,3 +9,5 @@ You'll have to run this .bat file EVERY TIME you want to launch Steam, like if y
 If you don't want to keep the .bat file in your Downloads folder or on your Desktop, you can also just throw it directly into your Steam folder. It'll work wherever it is. Just don't forget to keep your shortcuts to the Batch File up-to-date.
 
 AND WHATEVER YOU DO! DO NOT CLICK "RESTART STEAM" WHEN THE UPDATE WINDOW SHOWS UP. You'll be back on the Shit Interface again!
+
+Sorry, Mac and Linux users. This only works on Windows systems.
