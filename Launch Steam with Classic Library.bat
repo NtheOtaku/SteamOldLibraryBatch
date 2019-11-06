@@ -1,3 +1,6 @@
+@echo off
+taskkill /F /IM Steam.exe /T
+
 attrib -R "C:\Program Files (x86)\Steam\package\*.*"
 del /q "C:\Program Files (x86)\Steam\package\*.*"
 
