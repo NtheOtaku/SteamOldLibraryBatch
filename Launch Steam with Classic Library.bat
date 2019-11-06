@@ -1,3 +1,5 @@
+rem Make sure to read the Readme file before running the Batch File!
+
 taskkill /F /IM Steam.exe /T
 
 attrib -R "C:\Program Files (x86)\Steam\package\*.*"
