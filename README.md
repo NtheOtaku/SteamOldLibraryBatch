@@ -27,3 +27,5 @@ CHANGELOG
 1.0 - November 2, 2019: Initial release.
 
 1.1 - November 6, 2019: Added a /taskkill command at the start of the Batch File. This allows you to run the Batch File and restore Steam to the Classic Library UI, even with Steam already running. Ideal for configurations that automatically launch Steam on user logon.
+
+1.1.1 - November 6, 2019: Added a comment line in the Batch File reminding users to read the Readme before running the file.
